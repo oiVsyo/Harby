@@ -1,0 +1,67 @@
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\Harby_0.0.exe.config
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Login.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\MainWindow.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\MessageWindow.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\PlayerWindow.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Login.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\MainWindow.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\MessageWindow.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\PlayerWindow.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\App.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0_MarkupCompile.cache
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.g.resources
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Harby_0._0.Properties.Resources.resources
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.csproj.GenerateResource.Cache
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\Harby_0.0.exe
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\Harby_0.0.pdb
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.exe
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.pdb
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\HtmlAgilityPack.dll
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\Newtonsoft.Json.dll
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\VkNet.dll
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\HtmlAgilityPack.pdb
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\HtmlAgilityPack.xml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\Newtonsoft.Json.pdb
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\Newtonsoft.Json.xml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\VkNet.pdb
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\bin\Debug\VkNet.xml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\DialogListPage.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\DialogPage.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\FriendsListPage.baml
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\DialogListPage.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\DialogPage.g.cs
+E:\Учёба\4 курс\Лабораторные работы\2 семестр\АППЗ\Harby_0.0\Harby_0.0\obj\Debug\FriendsListPage.g.cs
+G:\Harby_0.0\Harby_0.0\bin\Debug\Harby_0.0.exe.config
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.exe
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.pdb
+G:\Harby_0.0\Harby_0.0\bin\Debug\Harby_0.0.exe
+G:\Harby_0.0\Harby_0.0\bin\Debug\Harby_0.0.pdb
+G:\Harby_0.0\Harby_0.0\bin\Debug\HtmlAgilityPack.dll
+G:\Harby_0.0\Harby_0.0\bin\Debug\Newtonsoft.Json.dll
+G:\Harby_0.0\Harby_0.0\bin\Debug\VkNet.dll
+G:\Harby_0.0\Harby_0.0\bin\Debug\HtmlAgilityPack.pdb
+G:\Harby_0.0\Harby_0.0\bin\Debug\HtmlAgilityPack.xml
+G:\Harby_0.0\Harby_0.0\bin\Debug\Newtonsoft.Json.pdb
+G:\Harby_0.0\Harby_0.0\bin\Debug\Newtonsoft.Json.xml
+G:\Harby_0.0\Harby_0.0\bin\Debug\VkNet.pdb
+G:\Harby_0.0\Harby_0.0\bin\Debug\VkNet.xml
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.csprojResolveAssemblyReference.cache
+G:\Harby_0.0\Harby_0.0\obj\Debug\DialogListPage.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\DialogPage.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\FriendsListPage.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\Login.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\MainWindow.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\MessageWindow.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\PlayerWindow.baml
+G:\Harby_0.0\Harby_0.0\obj\Debug\DialogListPage.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\DialogPage.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\FriendsListPage.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\Login.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\MainWindow.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\MessageWindow.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\PlayerWindow.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\App.g.cs
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0_MarkupCompile.cache
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.g.resources
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0._0.Properties.Resources.resources
+G:\Harby_0.0\Harby_0.0\obj\Debug\Harby_0.0.csproj.GenerateResource.Cache

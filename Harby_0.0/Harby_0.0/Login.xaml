@@ -1,0 +1,12 @@
+﻿<Window x:Class="Harby_0._0.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="400" Width="700"
+        AllowsTransparency="False" Background="White" WindowStyle="None" Loaded="Window_Loaded_1" MouseLeftButtonDown="Window_MouseLeftButtonDown_1">
+    
+    <Grid>
+        <Image Name="Close_" Source="Resourses/Close.png" Margin="647,8,0,358" RenderTransformOrigin="0.5,0.617" Cursor="Hand" MouseDown="Close__MouseDown"/>
+        <WebBrowser Name ="Login_web"  HorizontalAlignment="Left" Height="342" VerticalAlignment="Top" Width="672" LoadCompleted="Login_web_LoadCompleted" Margin="10,40,0,0"/>
+        
+    </Grid>
+</Window>
